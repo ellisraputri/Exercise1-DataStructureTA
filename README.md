@@ -27,7 +27,7 @@ This repository cointains the answer for the part two exercises for Data Structu
 <details>
 <summary>&ensp;<b>Encapsulation</b></summary>
 
-- The animal class some private attributes, like nucleus, species, size, and existence of wing. It also has the getter and setter functions for the attributes, except the nucleus (since it's already declared as static and final). So, if the user wants to do something with the attributes, the user has to use the getter and the setter. And, this is the encapsulation part of this code. It prevents user to change or access the attributes directly.
+- The animal class some private attributes, like species, size, and existence of wing. It also has the getter and setter functions for the attributes. So, if the user wants to do something with the attributes, the user has to use the getter and the setter. And, this is the encapsulation part of this code. It prevents user to change or access the attributes directly.
 
 <br>
 </details>
